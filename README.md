@@ -2,6 +2,10 @@
 
 This project will help build proficiency in JavaScript, HTML and CSS.
 
+## Example
+
+[NerdWallet's Retirement Calculator](https://www.nerdwallet.com/investing/retirement-calculator) is a brilliant example of a retirement calculator (though you can find tons more on Google).
+
 ## Description
 
 Create a web application composed of four input fields:
