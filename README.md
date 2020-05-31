@@ -19,10 +19,10 @@ Using these inputs, display how much money a user will need to retire at 67 year
 
 ## Project Set Up
 
-1. Click the green "Use this template" button
-2. Create a new repository
-3. At the command line, clone your new repository by typing `git clone https://github.com/your-username/your-repository-name.git` (note the need to replace the URL with your URL!)
-4. `cd your-repository-name`
+1. Fork this repository
+2. Copy the URL of the new repository by clicking the green "Click or download" button in your repository and clicking the copy icon.
+3. At the command line, clone your new repository by typing `git clone {paste the URL here}`
+4. `cd retirement-calculator`
 5. `npm install`
 6. `npm start`
 7. Go to http://localhost:8080
